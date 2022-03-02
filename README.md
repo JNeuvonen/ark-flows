@@ -1,6 +1,6 @@
 Front: React
 
-Backend: Node, Express, MongoDB database
+Backend: Node, Express, MongoDB
 
 Ark-Data: Script that fetches relevant data from public resources and saves it to MongoDB
 
