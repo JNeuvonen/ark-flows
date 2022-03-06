@@ -1,6 +1,6 @@
 Stack
-
-Front: React, Sass
+**
+Front: React, Sass**
 
 Backend: Node, Express, MongoDB
 
