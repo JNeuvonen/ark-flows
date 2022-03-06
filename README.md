@@ -2,9 +2,6 @@ How do you use the APP?
 
 You can either select ARK's fund from the top left corner, or search for a company ARK holds, like Tesla, for example.
 
-
-Used stack
-
 Front: React, Sass
 
 Backend: Node, Express, MongoDB
