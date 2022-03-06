@@ -1,8 +1,6 @@
-ARK ETF is the biggest publicly traded actively managed ETF fund. ETF funds have to disclose their positions before every trading day. This presents a fun opportunity for visualizing ARK's position changes from day to day and their longer term strategy.
+How do you use the APP?
 
-How to use the APP?
-
-You can either select ARK's fund from the top left corner, or search for a company ARK holds, like Tesla for example.
+You can either select ARK's fund from the top left corner, or search for a company ARK holds, like Tesla, for example.
 
 
 Used stack
