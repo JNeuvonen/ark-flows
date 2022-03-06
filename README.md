@@ -10,4 +10,4 @@ Ark-Data (not intended to be clean code): Script that fetches relevant data from
 
 Deployed to AWS
 
-Demo available here: http://54.85.25.129/
+Demo available here: http://www.trackarkflow.com/
