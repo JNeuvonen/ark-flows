@@ -1,4 +1,4 @@
-Front: React
+Front: React, Sass
 
 Backend: Node, Express, MongoDB
 
